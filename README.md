@@ -6,6 +6,6 @@ In the past I have worked on; instructing students in macro and microeconomics, 
 
 I'm currently learning more about data science methods (NLP, Machine Vision, CV) and tools (Python, R, SQL, Regressions).
 
-I'm looking to collaborate on Kaggle competitions and any other ways to learn new tools and processes.
+I'm currnetly firming up my understanding of Docker, Graphana, and more advanced SQL queries.
 
 You can reach me at michael.v.cassidy@gmail.com.
