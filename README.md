@@ -4,8 +4,6 @@ I'm insterested in listening to what the data has to say, and bringing that to t
 
 In the past I have worked on; instructing students in macro and microeconomics, ETL processes and product development for time-series databases, product management and financial analytic development for large data corporations, and co-authoring research at the intersection of NLP and Monetary Policy.
 
-I'm currently learning more about data science methods (NLP, Machine Vision, CV) and tools (Python, R, SQL, Regressions).
-
 I'm currnetly firming up my understanding of Docker, Graphana, and more advanced SQL queries.
 
 You can reach me at michael.v.cassidy@gmail.com.
